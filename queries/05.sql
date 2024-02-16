@@ -1,4 +1,4 @@
---02 Retrieve all available books
+-- Retrieve all available books
 SELECT Title, AuthorName, GenreName
 FROM Books
 JOIN Authors ON Books.AuthorID = Authors.AuthorID

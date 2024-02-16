@@ -1,4 +1,4 @@
--- 07 Find number of checked out books by author
+-- Find number of checked out books by author
 SELECT Authors.AuthorName, COUNT(*) AS CheckedOutBooks
 FROM Books
 JOIN Authors ON Books.AuthorID = Authors.AuthorID
