@@ -1,3 +1,4 @@
--- Delete Oliver Twist
-DELETE FROM Books
-WHERE Title = 'Oliver Twist';
+-- Find book with word "mice"
+SELECT *
+FROM Books
+WHERE Title LIKE '%mice%';

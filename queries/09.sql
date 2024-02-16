@@ -1,4 +1,5 @@
--- Add Wuthering Heights
-INSERT INTO Books (BookID, Title, AuthorID, GenreID, AvailabilityStatusID, PublicationYear)
-VALUES
-(20, 'Wuthering Heights', 8, 6, 1, 1847);
+-- Find all books by Bronte Sisters
+SELECT Books.Title, Authors.AuthorName
+FROM Books
+JOIN Authors ON Books.AuthorID = Authors.AuthorID
+WHERE Authors.AuthorName LIKE '%Bronte';
