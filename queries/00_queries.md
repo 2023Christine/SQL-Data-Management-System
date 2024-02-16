@@ -104,5 +104,18 @@ This document contains a set of SQL queries along with explanations and solution
 | Jane Eyre           | Charlotte Bronte    |
 | Wuthering Heights   | Emily Bronte        |
 
+## 11. Delete Oliver Twist
+
+[SQL File](11.sql)
+
+## 12. Find book with word "mice"
+
+[SQL File](12.sql)
+
+| BookID | Title               | AuthorID | GenreID | AvailabilityStatusID | PublicationYear |
+|--------|---------------------|----------|---------|------------------------|------------------|
+| 19     | Of Mice and Men     | 9        | 8       | 3                      | 1937             |
+
+
 
 
