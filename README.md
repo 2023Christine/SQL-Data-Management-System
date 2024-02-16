@@ -21,7 +21,7 @@ This SQL script creates and populates tables for a fictional library database. T
 
 ### Usage:
 
-1. **[Table Creation](schema/tabels.sql)**: Execute the provided `CREATE TABLE` statements to set up the necessary database structure.
+1. **[Table Creation](schema/tables.sql)**: Execute the provided `CREATE TABLE` statements to set up the necessary database structure.
 
 2. **[Data Insertion](schema/population.sql)**: Run the `INSERT INTO` statements to populate the tables with sample data.
 
