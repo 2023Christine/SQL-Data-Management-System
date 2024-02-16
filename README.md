@@ -25,7 +25,12 @@ This SQL script creates and populates tables for a fictional library database. T
 
 2. **Data Insertion**: Run the `INSERT INTO` statements to populate the tables with sample data.
 
-3. **Query and Analysis**: Use SQL queries to retrieve information about authors, genres, book availability, and other relevant details.
+3. **Query and Analysis**:
+
+   - A set of SQL queries and solutions will be provided in the [queries](queries) folder.
+   
+   - **[Queries and Solutions](queries/queries.md)**: This file includes example queries along with their solutions, demonstrating how to retrieve information about authors, genres, book availability, and other relevant details.
+
 
 
 
