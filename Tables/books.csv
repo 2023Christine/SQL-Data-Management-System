@@ -1,0 +1,11 @@
+BookID,Title,AuthorID,GenreID,AvailabilityStatusID,PublicationYear
+1,Moby Dick,1,1,1,1851
+2,1984,2,4,2,1949
+3,Animal Farm,2,4,3,1945
+4,The Adventures of Tom Sawyer,3,3,1,1876
+5,Adventures of Huckleberry Finn,3,3,2,1884
+6,Hamlet,4,2,3,1603
+7,Romeo and Juliet,4,2,1,1597
+8,Macbeth,4,2,2,1606
+9,Othello,4,2,3,1603
+10,The Great Gatsby,5,1,1,1925

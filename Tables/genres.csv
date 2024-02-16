@@ -1,0 +1,11 @@
+GenreID,GenreName,Description
+1,Fiction,Works of imagination or narrative that are not based on fact.
+2,Drama,"Plays, theatrical performances, or works with intense, conflict-driven plots."
+3,Classic,Works that are considered timeless and of enduring relevance.
+4,Mystery,Works focused on solving a crime or uncovering secrets.
+5,Science Fiction,Speculative fiction based on scientific concepts and futuristic themes.
+6,Romance,Works centered around romantic relationships.
+7,Fantasy,Works featuring magical elements and imaginary worlds.
+8,Historical Fiction,Fiction set in a specific historical period with realistic details.
+9,Thriller,Works designed to keep the reader on the edge of their seat with suspense.
+10,Non-Fiction,"Works based on real events, people, and facts."
