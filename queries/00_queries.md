@@ -116,6 +116,11 @@ This document contains a set of SQL queries along with explanations and solution
 |--------|---------------------|----------|---------|------------------------|------------------|
 | 19     | Of Mice and Men     | 9        | 8       | 3                      | 1937             |
 
+## 13. Make a pie chart of books by genre
 
+
+[SQL File](13.sql)
+
+[Pie Chart](13pie.png)
 
 
